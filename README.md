@@ -44,6 +44,7 @@ Here I've noted only questions from my interviews.
 - https://github.com/sudheerj/reactjs-interview-questions List of top 222 ReactJS Interview Questions & Answers
 - https://github.com/Pau1fitz/react-interview  List of common React interview questions.
 - https://github.com/ElemeFE/node-interview How to pass the Node.js interview of ElemeFE
+- https://www.adaface.com/blog/react-interview-questions/ 100+ React Interview Questions (2020)
 
 ## More specific questions:
 
@@ -52,6 +53,7 @@ Here I've noted only questions from my interviews.
 - [(one more time ) Awesome Interviews - not only languages, but libraries/frameworks too](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - JS Interview Algorithm [beginner](http://www.thatjsdude.com/interview/js1.html) / [intermediate](http://www.thatjsdude.com/interview/js2.html)
 - [13 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
+- [React Interview Questions and Answers](https://www.interviewbit.com/react-interview-questions/)
 
 ## Also it may be helpful to check next books:
 
@@ -68,7 +70,8 @@ Here I've noted only questions from my interviews.
 - https://tests4geeks.com/category/javascript
 - http://perfectionkills.com/javascript-quiz-es6/ ( also check explains at https://gist.github.com/DmitrySoshnikov/3928607cb8fdba42e712 )
 - http://dmitry.baranovskiy.com/post/91403200 - So, you think you know JavaScript? it's usefull to read https://www.nczonline.net/blog/2010/01/26/answering-baranovskiys-javascript-quiz/ )
-- http://perfectionkills.com/javascript-quiz/ (
+- http://perfectionkills.com/javascript-quiz/
+- https://www.adaface.com/assessment-test/javascript-online-test
 
 ## You can get more practice in interview questions at:
 
